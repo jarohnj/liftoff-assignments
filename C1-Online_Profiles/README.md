@@ -14,7 +14,8 @@ Provide a link to your LinkedIn account here. https://www.linkedin.com/in/jarohn
 
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.[Jarohn Johnson Resume - LaunchCode.pdf](https://github.com/jarohnj/liftoff-assignments/files/9252231/Jarohn.Johnson.Resume.-.LaunchCode.pdf)
+You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.[Jarohn Johnson Resume .pdf](https://github.com/jarohnj/liftoff-assignments/files/9447186/Jarohn.Johnson.Resume.pdf)
+
 
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
